@@ -30,3 +30,10 @@ charset="UTF-8"?
 Para que todos os usuários vejam o site com o dicionário correto
 É preciso apontar para o navegador que estamos usando um dicionário 
 que tenha acentos e cedilha, sinais gráficos comuns na língua portuguesa.
+
+Qual é a diferença entre inserir informações na tag head e na tag body?
+O conteúdo fica no body e informações no head
+
+
+Alternativa correta! Na estrutura correta do HTML, inserimos as informações 
+que queremos passar para o navegador no head e as tags de conteúdo no body.
