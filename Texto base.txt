@@ -37,3 +37,59 @@ O conteúdo fica no body e informações no head
 
 Alternativa correta! Na estrutura correta do HTML, inserimos as informações 
 que queremos passar para o navegador no head e as tags de conteúdo no body.
+
+Aula 03
+
+Nesta aula, aprendemos:
+
+A mexer na apresentação dos textos
+No alinhamento deles (text-align)
+No tamanho da fonte (font-size)
+Na cor de fundo (background)
+Na cor do texto (color)
+CSS inline
+Na linha onde temos a nossa tag, adicionamos a propriedade do CSS
+A tag <style>
+Dentro da tag, podemos colocar marcações de CSS referentes aos 
+elementos que temos no nosso HTML
+A apresentação do CSS com um arquivo externo
+Como funciona o estilo em cascata do CSS
+Como importar um arquivo externo de CSS dentro da nossa página HTML
+Como representar cores no CSS
+Através do nome da cor
+Através do seu hexadecimal
+Através do seu RGB
+Começamos a mexer na apresentação dos textos, no alinhamento deles e no tamanho da fonte.
+
+O time de Front-End é composto por vários profissionais, qual deles é o mais 
+indicado para pensar no visual do produto?
+Resp.  Os profissionais de UI se relacionam, entre outras coisas, com o design.
+
+
+Nesta aula 04, aprendemos:
+
+Como reestruturar o nosso código, removendo os CSS inline e colocando-os no arquivo CSS externo
+Como criar um identificador para marcar especificamente um elemento
+Como fazer referência a esse identificador no CSS
+Como adicionar uma imagem à nossa página
+Como ajustar a altura do elemento, através da propriedade height
+Como ajustar a largura do elemento, através da propriedade width
+Como ajustar o espaçamento interno do elemento, através da propriedade padding
+Como ajustar o espaçamento externo do elemento, através da propriedade margin
+Como se comporta um time de front-end hoje em dia
+
+<ul>
+    <li>Item lilás</li>
+    <li>Item azul</li>
+    <li>Item vermelho</li>
+</ul>
+
+Alternativa correta! A tag para a lista é a ul e cada item da lista 
+precisa ser marcado com um li.
+
+A tag div é a tag específica para dividir o conteúdo. 
+Ela não tem outra função além dessa.
+
+A class serve para replicarmos a aplicação do nosso CSS, sem precisar 
+copiar e colá-lo em vários elementos. Aplicamos a classe para isso.
+ 
