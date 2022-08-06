@@ -92,4 +92,12 @@ Ela não tem outra função além dessa.
 
 A class serve para replicarmos a aplicação do nosso CSS, sem precisar 
 copiar e colá-lo em vários elementos. Aplicamos a classe para isso.
+
+Nesta aula 06, aprendemos:
+
+O conceito de cabeçalho da página e como criá-lo
+Que o cabeçalho da página deve ter mais destaque
+Que não é recomendado criar estilos usando tags
+O ideal é usarmos classes para tudo
+
  
