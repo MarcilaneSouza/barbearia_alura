@@ -1,7 +1,32 @@
 Sobre a Barbearia Alura
 
-Localizada no coração da cidade a Barbearia Alura traz para o mercado o que há de melhor para o seu cabelo e barba. Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.
+Localizada no coração da cidade a Barbearia Alura traz 
+para o mercado o que há de melhor para o seu cabelo e barba. 
+Fundada em 2019, a Barbearia Alura já é destaque na cidade e 
+conquista novos clientes a cada dia.
 
 Nossa missão é: "Proporcionar auto-estima e qualidade de vida aos clientes".
 
-Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.
+Oferecemos profissionais experientes e antenados às mudanças no mundo da moda.
+O atendimento possui padrão de excelência e agilidade, garantindo qualidade e
+satisfação dos nossos clientes.
+
+<h1>Mercado Pomar</h1>  Título da página
+<p>Tradição em preço baixo e hortifrúti de qualidade.</p> 
+<p>Localizado no coração de Vila Velha.</p>
+
+<strong>Frase de <em>exemplo</em></strong>
+
+Alternativa correta! Fazemos uma marcação de destaque em toda a 
+frase e uma marcação de ênfase na palavra exemplo.
+
+A tag DOCTYPE. Qual é a sua função?
+Passar informações para o navegador sobre qual versão do HTML estamos usando
+Alternativa correta! A tag DOCTYPE serve para informar ao navegador qual 
+versão do HTML estamos usando.
+
+
+charset="UTF-8"?
+Para que todos os usuários vejam o site com o dicionário correto
+É preciso apontar para o navegador que estamos usando um dicionário 
+que tenha acentos e cedilha, sinais gráficos comuns na língua portuguesa.
