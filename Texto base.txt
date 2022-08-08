@@ -259,3 +259,10 @@ A melhorar mais ainda a semântica da página principal, com novas divisões, cl
 Novas pseudo-classes
 Como aplicar um background gradiente na página
 Pseudo-elementos
+
+Nesta aula 05, aprendemos:
+
+Como manipular a opacidade dos elementos, com a propriedade CSS opacity
+Como manipular a opacidade das cores
+Como adicionar um sombreamento em volta dos elementos, com a propriedade CSS box-shadow
+Como adicionar um sombreamento em textos, com a propriedade CSS text-shadow
