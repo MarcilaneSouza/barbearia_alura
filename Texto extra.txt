@@ -1,0 +1,235 @@
+Qual é a diferença entre inserir informações na tag head e na tag body?
+O conteúdo fica no body e informações no head
+
+
+Alternativa correta! Na estrutura correta do HTML, inserimos as informações 
+que queremos passar para o navegador no head e as tags de conteúdo no body.
+
+Aula 03
+
+Nesta aula, aprendemos:
+
+A mexer na apresentação dos textos
+No alinhamento deles (text-align)
+No tamanho da fonte (font-size)
+Na cor de fundo (background)
+Na cor do texto (color)
+CSS inline
+Na linha onde temos a nossa tag, adicionamos a propriedade do CSS
+A tag <style>
+Dentro da tag, podemos colocar marcações de CSS referentes aos 
+elementos que temos no nosso HTML
+A apresentação do CSS com um arquivo externo
+Como funciona o estilo em cascata do CSS
+Como importar um arquivo externo de CSS dentro da nossa página HTML
+Como representar cores no CSS
+Através do nome da cor
+Através do seu hexadecimal
+Através do seu RGB
+Começamos a mexer na apresentação dos textos, no alinhamento deles e no tamanho da fonte.
+
+O time de Front-End é composto por vários profissionais, qual deles é o mais 
+indicado para pensar no visual do produto?
+Resp.  Os profissionais de UI se relacionam, entre outras coisas, com o design.
+
+
+Nesta aula 04, aprendemos:
+
+Como reestruturar o nosso código, removendo os CSS inline e colocando-os no arquivo CSS externo
+Como criar um identificador para marcar especificamente um elemento
+Como fazer referência a esse identificador no CSS
+Como adicionar uma imagem à nossa página
+Como ajustar a altura do elemento, através da propriedade height
+Como ajustar a largura do elemento, através da propriedade width
+Como ajustar o espaçamento interno do elemento, através da propriedade padding
+Como ajustar o espaçamento externo do elemento, através da propriedade margin
+Como se comporta um time de front-end hoje em dia
+
+<ul>
+    <li>Item lilás</li>
+    <li>Item azul</li>
+    <li>Item vermelho</li>
+</ul>
+
+Alternativa correta! A tag para a lista é a ul e cada item da lista 
+precisa ser marcado com um li.
+
+A tag div é a tag específica para dividir o conteúdo. 
+Ela não tem outra função além dessa.
+
+A class serve para replicarmos a aplicação do nosso CSS, sem precisar 
+copiar e colá-lo em vários elementos. Aplicamos a classe para isso.
+
+Nesta aula 06, aprendemos:
+
+O conceito de cabeçalho da página e como criá-lo
+Que o cabeçalho da página deve ter mais destaque
+Que não é recomendado criar estilos usando tags
+O ideal é usarmos classes para tudo
+
+
+
+** Estamos na segunda página do projeto Barbearia.
+
+ A tag <h1> envolve a tag da imagem, 
+que é onde buscamos o conteúdo que será exibido.
+
+ <h1>
+    <img src="">
+ </h1>
+
+Nesta aula 01, vimos:
+
+Uma introdução ao projeto do treinamento
+Uma revisão do conteúdo aprendido no treinamento anterior
+Uma revisão da base de uma página HTML
+Lista HTML não ordenada
+
+A tag <a> serve justamente como uma âncora, um link, que vai 
+nos levar para outro ponto na internet.
+
+ A propriedade text-transform é a responsável pela transformação 
+ do texto para maiúsculo, quando usamos o valor uppercase
+
+ Nesta aula 03, aprendemos:
+
+A criar links para outras páginas, sejam elas do nosso projeto ou páginas externas
+Um reforço aos estilos inline e block
+Como transformar o texto para ter todas as letras maiúsculas
+Como deixar o texto em negrito com CSS
+Como remover a decoração do texto
+
+Obs. Ele hoje é um arquivo básico, muito padrão, que infelizmente é muito usado e 
+tem que ser usado em praticamente todos os sites para zerar o que navegador está 
+fazendo e a gente já viu, que para usar um arquivo de CSS.
+
+Com o position: absolute, eu consigo posicionar meu elemento em qualquer lugar da página.
+
+Ainda nesta aula 03, aprendemos:
+
+Como remover os estilos que o navegador cria automaticamente
+Como funciona os posicionamentos static, relative e absolute dos elementos
+Como posicionar o cabeçalho da nossa página
+
+
+Nesta aula 04, aprendemos:
+
+A tag main, para o conteúdo principal da nossa página
+A criar listas complexas, com títulos, imagens e parágrafos
+A utilizar o inline-block
+A praticar e estilizar o conteúdo principal da nossa página
+
+Ainda nesta aula 04, aprendemos:
+
+Através do CSS, aplicar bordas nos elementos.
+Os diferentes tipos de bordas.
+A deixar a borda arredondada.
+
+
+Obs. No hover, mapeamos o comportamento do mouse por cima do elemento, e 
+podemos usar isso para destacar visualmente o elemento em questão.
+
+Nesta aula 06, aprendemos:
+
+Algumas pseudo-classes CSS
+hover, quando o usuário passa o cursor sobre o elemento
+active, quando um elemento está sendo ativado pelo usuário
+A mudar a cor do texto e/ou da borda de um elemento, quando o usuário passar o cursor sobre o mesmo
+A mudar a cor da borda de um elemento, quando o mesmo estiver sendo ativado pelo usuário
+
+Nesta aula 07, aprendemos:
+
+A tag footer, para o rodapé da nossa página
+Que, com CSS, podemos colocar uma imagem de fundo em um elemento
+Quando colocamos uma imagem de fundo em um elemento, o CSS, por padrão, copia e cola a imagem diversas vezes até ocupar todo o espaço do elemento
+A tabela Unicode
+
+Nesta aula 03 parte, vimos:
+
+Uma revisão do conteúdo aprendido no treinamento anterior
+Uma introdução ao projeto do treinamento
+A criação da página de contato
+Um pouco sobre os formulários
+
+Nesta aula 02 parte 3, aprendemos:
+
+A criar um formulário HTML
+A tag que o representa é a <form>
+A tag <input>, para a entrada de dados do usuário
+A criar uma etiqueta para o input, com a tag <label>
+A conectar um input com o seu label
+Colocamos um id para o input e associamos esse id ao atributo for do label
+Alguns tipos de input, como text e submit
+Que label possui o display inline e o input possui display inline-block
+A estilizar o nosso formulário
+
+
+Nesta aula 03 parte 3, vimos:
+
+O textarea, para entradas de texto de mais de uma linha
+O input do tipo radio
+Como agrupar vários input do tipo radio, impedindo que mais de um input seja selecionado
+O input do tipo checkbox
+Que podemos criar um input dentro de um label, assim associando-os
+Mais estilizações para a nossa página
+Como funciona a hierarquia no CSS
+O select, que é seletor, um campo de seleção de um item, e o option, 
+que representa cada opção do seletor
+
+Utilizamos a propriedade transform: scale() para aumentar um elemento proporcionalmente.
+Utilizamos a propriedade transition para prover uma transição visual de um elemento.
+
+Nesta aula 05, aprendemos:
+
+Como estilizar o botão de envio de formulário
+A realizar transições nos nossos elementos, com a propriedade CSS transition
+A modificar o estilo do ponteiro do mouse, quando passar por cima de determinado elemento, 
+através da propriedade CSS cursor
+A realizar transformações nos nossos elementos, como aumentar proporcionalmente a escala de
+ determinado elemento ou rotacioná-lo, através da propriedade CSS transform
+
+ Utilizamos a tag <tr> para marcar uma linha de uma tabela.
+
+ As tags <thead>, <tbody> e <tfoot> ajudam a deixar o conteúdo da tabela mais bem dividido 
+e mais semântico.
+
+Nesta aula 06, aprendemos:
+
+A criar uma tabela HTML
+A tag table, que representa a tabela
+A tag tr, que representa a linha da tabela
+A tag td, que representa a célula da tabela
+A tag thead, que representa o cabeçalho da tabela
+A tag tbody, que representa o corpo da tabela
+A tag th, que representa a célula do cabeçalho da tabela
+A tag tfoot, que representa o rodapé da tabela
+A estilizar a tabela
+
+Aula 01 do vídeo 4
+
+Nesta aula, aprendemos:
+
+A ajustar a página principal para utilizar os mesmos padrões da página de produtos
+Medidas proporcionais com CSS
+Como funciona a flutuação dos elementos e como modificá-la, com a propriedade float do CSS
+Como limpar o float, com a propriedade clear do CSS
+
+Nesta aula 02, aprendemos:
+
+A utilizar fontes externas nas nossas páginas
+Como incorporar um mapa à nossa página
+Como incorporar um vídeo à nossa página
+
+Nesta aula 03, aprendemos:
+
+A melhorar mais ainda a semântica da página principal, com novas divisões, classes, etc
+Novas pseudo-classes
+Como aplicar um background gradiente na página
+Pseudo-elementos
+
+Nesta aula 05, aprendemos:
+
+Como manipular a opacidade dos elementos, com a propriedade CSS opacity
+Como manipular a opacidade das cores
+Como adicionar um sombreamento em volta dos elementos, com a propriedade CSS box-shadow
+Como adicionar um sombreamento em textos, com a propriedade CSS text-shadow
